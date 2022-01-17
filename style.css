@@ -1,0 +1,17 @@
+.input-group-append {
+  margin-top: 20px;
+}
+
+.none {
+  display: none;
+}
+
+.error-valid {
+  font-size: 15px;
+  color: red;
+  margin-top: 5px;
+}
+
+th {
+  cursor: pointer;
+}
